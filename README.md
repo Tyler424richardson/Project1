@@ -1,3 +1,4 @@
+![Diagram](https://user-images.githubusercontent.com/80534661/127035929-1b8238ce-ef10-49d8-b179-4ba642bcb127.png)
 ![filebeat](https://user-images.githubusercontent.com/80534661/127035687-48aa1e60-cc62-478c-a7f7-239864f3030c.png)
 ![Kibana](https://user-images.githubusercontent.com/80534661/127035700-08cedb6b-0079-44cd-bedc-29e5395d587b.png)
 ![metricbeat](https://user-images.githubusercontent.com/80534661/127035721-00e5a2c1-856a-43c9-b9a5-29889c88ecf2.png)
